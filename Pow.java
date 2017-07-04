@@ -7,7 +7,7 @@ System.out.println("Enter the number");
 int a=sc.nextInt();
 System.out.println("Enter the power of a number");
 int b=sc.nextInt();
-System.out.println(Math.pow(a,b));
+System.out.println((int)Math.pow(a,b));
 
 }
 }
