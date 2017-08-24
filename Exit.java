@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.* ;
-public class exit{
+public class Exit{
   public static void main(String args[]) 
   {
     Scanner sc=new Scanner(System.in);
